@@ -17,3 +17,7 @@ For example: git clone https://github.com/baronsolo/Flask_Blog D:\\git
 5. Follow the link that will give you.
 
 To stop the local server, you need to press a key combination Ctrl+C in the terminal.
+
+Sergey Solovyov wrote the code.
+
+Mail: siarheikozubovsky@yandex.ru
